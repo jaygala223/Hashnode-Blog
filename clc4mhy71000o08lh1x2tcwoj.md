@@ -2,8 +2,6 @@
 
 Understanding the different types of errors deeply goes a long way. In-depth knowledge of why they occur and how they can be identified helps to improve model performance significantly.
 
-[![Overfitting and underfitting in machine learning | Image credit: SuperAnnotate](https://uploads-ssl.webflow.com/614c82ed388d53640613982e/6360ef2568a0381c60b26049_overfitting-and-underfitting-in-machine-learning-1.png align="left")](https://www.superannotate.com/blog/overfitting-and-underfitting-in-machine-learning)
-
 # So what are Bias and Variance?
 
 **Bias** and **Variance** are two types of reducible prediction errors in Machine Learning i.e these errors can be reduced with the help of certain techniques and algorithms to better align the predictions with the expected outputs. Let's take a look at both in detail.
