@@ -15,7 +15,7 @@ At the start of the second week of the **MLH Prep Fellowship**, my pod and I wer
 
 As the week progressed, our pod collaborated to brainstorm various ideas on how we could take the project to the next level. Eventually, we came up with the concept of turning the app into an **end-to-end trip planner**. Users will have the option to select their **source and destination**, as well as their **preferred dates**, and the application will provide them with recommendations for **hotels and flights**, potentially using another API. We also plan to help users **plan their itinerary, make a budget**, etc. making their trip-planning experience seamless and enjoyable.
 
-The highlight of this week for me was giving my **lightning talk** on **Merge Conflicts**. I realized that preparing for the talk helped me to identify gaps in my understanding of the topic, which ultimately helped me to improve my knowledge. This reminds me of a quote from **Prof. Richard Feynman**
+The highlight of this week for me was giving my [**lightning talk**](https://galacodes.hashnode.dev/week-1-mlh-prep-fellowship) on **Merge Conflicts**. I realized that preparing for the talk helped me to identify gaps in my understanding of the topic, which ultimately helped me to improve my knowledge. This reminds me of a quote from **Prof. Richard Feynman**
 
 > "If you want to master something, teach it"
 
