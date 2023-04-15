@@ -15,12 +15,10 @@ At the start of the second week of the **MLH Prep Fellowship**, my pod and I wer
 
 As the week progressed, our pod collaborated to brainstorm various ideas on how we could take the project to the next level. Eventually, we came up with the concept of turning the app into an **end-to-end trip planner**. Users will have the option to select their **source and destination**, as well as their **preferred dates**, and the application will provide them with recommendations for **hotels and flights**, potentially using another API. We also plan to help users **plan their itinerary, make a budget**, etc. making their trip-planning experience seamless and enjoyable.
 
-One highlight of the week for me was giving my **lightning talk** on **Merge Conflicts**. I realized that preparing for the talk helped me to identify gaps in my understanding of the topic, which ultimately helped me to improve my knowledge. This reminds of a quote from **Prof. Richard Feynman**
+The highlight of this week for me was giving my **lightning talk** on **Merge Conflicts**. I realized that preparing for the talk helped me to identify gaps in my understanding of the topic, which ultimately helped me to improve my knowledge. This reminds me of a quote from **Prof. Richard Feynman**
 
 > "If you want to master something, teach it"
 
-In addition to my lightning talk, I had the opportunity to attend a talk by one of my pod mates, **Ikeh**, on **Communication Protocols**. It was a wonderful session and I learned a lot about how different devices communicate with each other using various protocols. The talk was very insightful and I could tell that **Ikeh** had put a lot of effort into preparing for it.
+In addition to my lightning talk, I had the opportunity to attend a talk by one of my pod mates, **Ikeh**, on **Communication Protocols**. It was a wonderful session and I learned a lot about how different devices communicate with each other using various protocols. Next week, **Daniel** will be giving a talk, and I'm looking forward to it. It's great to see everyone sharing their knowledge and expertise, and I'm grateful for this opportunity to learn from such a talented group of individuals.
 
-Next week, another pod mate, **Daniel**, will be giving a talk, and I'm looking forward to it. It's great to see everyone sharing their knowledge and expertise, and I'm grateful for this opportunity to learn from such a talented group of individuals.
-
-As we move into the third week of the fellowship, I'm excited to see how our weather app project evolves into an end-to-end trip planner app. I'm looking forward to working with my pod mates to implement new features and make the app more complete.
+As we move into the third week of the prep fellowship, I'm excited to see how our weather app project evolves into an end-to-end trip planner app. I'm looking forward to working with my pod mates to implement new features and make the app more complete.
