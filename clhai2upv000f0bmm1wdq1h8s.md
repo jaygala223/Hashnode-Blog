@@ -41,6 +41,6 @@ Well, I have connected with everyone on LinkedIn so we'll stay in touch. Also, I
 
 ## Conclusion
 
-In the end, I just know that I learned a lot during these three weeks and it was one of my most exciting experiences in tech so far. And if you want to read, here are the [week 1](https://hashnode.com/post/clg6bmmty001309l69vnl2xus) and [week 2](https://hashnode.com/post/clghryv7c000109mh7lfbdswj) blogs (more exciting than this one I promise). Also, if you've been accepted into the prep or the full fellowship, don't let that go and make the most of it. One last photo from the final day. Bye!
+In the end, I just know that I learned a lot during these three weeks and it was one of my most exciting experiences in tech so far. And if you want to read the entire prep fellowship journey experience, here are the [week 1](https://hashnode.com/post/clg6bmmty001309l69vnl2xus) and [week 2](https://hashnode.com/post/clghryv7c000109mh7lfbdswj) blogs (more exciting than this one I promise). Also, if you've been accepted into the prep or the full fellowship, don't let that go and make the most of it. One last photo from the final day. Bye!
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1683285728833/f450f741-7169-41b1-bb2b-56f0afc24e29.jpeg align="center")
