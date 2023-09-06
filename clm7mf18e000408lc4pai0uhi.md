@@ -4,6 +4,7 @@ seoTitle: "Siamese Networks for One-Shot Learning by Jay Gala"
 datePublished: Wed Sep 06 2023 10:52:53 GMT+0000 (Coordinated Universal Time)
 cuid: clm7mf18e000408lc4pai0uhi
 slug: siamese-networks-for-one-shot-learning
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693997680858/c7efb966-a36c-40d0-a304-9cc0b63ed95b.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693997494567/4946366c-01c2-47c2-b929-9c874862079a.png
 tags: ai, machine-learning, deep-learning, pytorch, few-shot-learning
 
